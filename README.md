@@ -14,7 +14,7 @@ public class calculator {
         System.out.println("4. Division");
 
         System.out.print("Enter choice (1/2/3/4): ");
-        int choice = scanner.nextInt();
+        int choice = scanner.nextint();
 
         System.out.print("Enter first number: ");
         double num1 = scanner.nextDouble();
